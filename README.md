@@ -8,4 +8,7 @@ go.
 ```go
 // handle to stdin
 bufio.NewReader(os.Stdin)
+
+// get capture groups
+FindStringSubmatch
 ```
